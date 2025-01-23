@@ -18,15 +18,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.adobe.aem.guides</groupId>
-        <artifactId>aem-guides-wknd</artifactId>
+        <groupId>com.adobe.aem</groupId>
+        <artifactId>aem-desertwolves</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>aem-guides-wknd.it.tests</artifactId>
-    <name>WKND Sites Project - Integration Tests</name>
-    <description>Integration Tests for WKND Sites Project</description>
+    <artifactId>aem-desertwolves.it.tests</artifactId>
+    <name>Desert Wolves - Integration Tests</name>
+    <description>Integration Tests for Desert Wolves</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

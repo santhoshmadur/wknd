@@ -7,16 +7,16 @@
     <!-- P A R E N T  P R O J E C T  D E S C R I P T I O N                      -->
     <!-- ====================================================================== -->
     <parent>
-        <groupId>com.adobe.aem.guides</groupId>
-        <artifactId>aem-guides-wknd</artifactId>
+        <groupId>com.adobe.aem</groupId>
+        <artifactId>aem-desertwolves</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>aem-guides-wknd.dispatcher.cloud</artifactId>
+    <artifactId>aem-desertwolves.dispatcher.cloud</artifactId>
     <packaging>pom</packaging>
-    <name>WKND Sites Project - Dispatcher</name>
-    <description>HTTP &amp; Dispatcher configurations for WKND Sites Project</description>
+    <name>Desert Wolves - Dispatcher</name>
+    <description>HTTP &amp; Dispatcher configurations for Desert Wolves</description>
 
     <build>
         <plugins>
