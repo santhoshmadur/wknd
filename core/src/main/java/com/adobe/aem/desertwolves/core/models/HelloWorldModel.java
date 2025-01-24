@@ -63,5 +63,4 @@ public class HelloWorldModel {
         return message;
     }
 
-
 }
