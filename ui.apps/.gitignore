@@ -1,1 +1,5 @@
-src/main/content/jcr_root/apps/desertwolves/clientlibs/clientlib-react
+# Created by https://www.gitignore.io/api/eclipse,java,maven
+
+src/main/content/jcr_root/apps/wknd/clientlibs/clientlib-site
+src/main/content/jcr_root/apps/wknd/clientlibs/clientlib-dependencies
+

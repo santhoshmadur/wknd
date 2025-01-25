@@ -31,7 +31,7 @@
 /1041 { /glob "gbraid" /type "allow" } # Parameter for iOS14+ 
 
 /1050 { /glob "dcli" /type "allow" } # DoubleClick click identifier
-/1051 { /glob "ga" /type "allow" }
+# /1051 { /glob "ga" /type "allow" }
 # /1052 { /glob "_ga" /type "allow" }
 
 /1060 { /glob "fbclid" /type "allow" } # Facebook click identifier
